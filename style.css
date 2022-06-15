@@ -1,0 +1,45 @@
+
+body{
+    background-color: rgb(3, 65, 51);
+
+}
+#nome{
+    display: flex;
+    border: solid 2px;
+    max-width: fit-content;
+    margin: auto;
+    color: rgb(247, 249, 252);
+
+
+}
+ #especialidades{
+     display: flex;
+    margin: 150px;
+    color: white;
+ }
+ #au{
+     font-size: 3em;
+ }
+#ef{
+    margin-left: auto;
+}
+#dados{
+    text-align: center;
+    background-color: rgb(177, 236, 207);
+}
+footer{
+    margin:-20px;
+    margin-bottom: 50px;
+}
+#sobremim{
+  display: flex;
+  margin: 150px;
+  color: white;
+}
+#sb{
+    margin-left: auto;
+}
+h3{
+    font-size: 3em;
+    color: white;
+}
